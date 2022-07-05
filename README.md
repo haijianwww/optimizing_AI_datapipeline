@@ -1,3 +1,6 @@
+# I will use some open-source tools to help me to profile and analysis the data stalls in AI pipeline
+
+
 # Analyzing and Mitigating Data Stalls in DNN Training
 
 This repository contains the source code implementation of the VLDB'21 paper "Analyzing and Mitigating Data Stalls in DNN Training". This work was done as part of Microsoft Research's [Project Fiddle](https://www.microsoft.com/en-us/research/project/fiddle/). This source code is available under the [MIT License](LICENSE.txt).
